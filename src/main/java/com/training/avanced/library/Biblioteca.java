@@ -24,6 +24,7 @@ public class Biblioteca {
                     lib.criarUsuario();
                     break;
                 case 2:
+                    lib.cadastrarLivroDigital();
                     break;
                 case 3:
                     break;
